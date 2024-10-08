@@ -7,7 +7,7 @@
     width: 360px;
     height: 620px;
     margin: auto;
-    background-color: white;
+    background-color: pink;
     border-radius: 3px;
   }
   
@@ -16,7 +16,7 @@
     height: 280px;
     margin: auto;
     border-radius: 3px;
-    background-color: white;
+    background-color: pink;
   }
   
   h1 {
@@ -43,7 +43,7 @@
     width: 100%;
     padding: 7px;
     border: none;
-    border: 1px solid gray;
+    border: 1px solid green;
     border-radius: 6px;
     outline: none;
   }
@@ -52,8 +52,8 @@
     height: 35px;
     margin-top: 20px;
     border: none;
-    background-color: #49c1a2;
-    color: white;
+    background-color: blueviolet;
+    color: black;
     font-size: 18px;
   }
   p {
@@ -63,10 +63,10 @@
   }
   .para-2 {
     text-align: center;
-    color: white;
+    color: green;
     font-size: 15px;
     margin-top: -10px;
   }
   .para-2 a {
-    color: #49c1a2;
+    color: blueviolet;
   }</span>
